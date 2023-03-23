@@ -1,4 +1,4 @@
-### Hi there 👋, i am Trung
+# Hi there 👋, i am Trung
 
 <!--
 **trungnt92/trungnt92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/107845126/227093832-25332dfd-8f08-4b66-8157-c8ac81735843.png" width="16" height="16"/> Unity Developer | <img src="https://user-images.githubusercontent.com/107845126/227094319-9b342447-ab0f-42a4-8850-26cda247ad21.png" width="16" height="16"/> <img src="https://user-images.githubusercontent.com/107845126/227094311-73b721f8-ae53-4e6c-af26-1a52b73000b5.png" width="16" height="16"/> <img src="https://user-images.githubusercontent.com/107845126/227094306-8a484320-ddf1-4293-a8bc-245f8c54beb6.jpg" width="16" height="16"/> Mobile Developer Flutter + Native
+<img src="https://user-images.githubusercontent.com/107845126/227093832-25332dfd-8f08-4b66-8157-c8ac81735843.png" width="16" height="16"/> Unity Developer | <img src="https://user-images.githubusercontent.com/107845126/227094319-9b342447-ab0f-42a4-8850-26cda247ad21.png" width="13" height="16"/> <img src="https://user-images.githubusercontent.com/107845126/227094311-73b721f8-ae53-4e6c-af26-1a52b73000b5.png" width="30" height="16"/> <img src="https://user-images.githubusercontent.com/107845126/227094306-8a484320-ddf1-4293-a8bc-245f8c54beb6.jpg" width="24" height="16"/> Mobile Developer Flutter + Native
 
 🎖 I hold several certifications that demonstrate my proficiency in Unity. Check out my credentials:
 
