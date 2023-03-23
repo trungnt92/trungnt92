@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![unity](https://user-images.githubusercontent.com/107845126/227093832-25332dfd-8f08-4b66-8157-c8ac81735843.png) Unity Developer | ![flutter](https://user-images.githubusercontent.com/107845126/227094319-9b342447-ab0f-42a4-8850-26cda247ad21.png) ![android](https://user-images.githubusercontent.com/107845126/227094311-73b721f8-ae53-4e6c-af26-1a52b73000b5.png) ![ios](https://user-images.githubusercontent.com/107845126/227094306-8a484320-ddf1-4293-a8bc-245f8c54beb6.jpg) Mobile Developer Flutter + Native
+<img src="https://user-images.githubusercontent.com/107845126/227093832-25332dfd-8f08-4b66-8157-c8ac81735843.png" width="16" height="16"/> Unity Developer | <img src="https://user-images.githubusercontent.com/107845126/227094319-9b342447-ab0f-42a4-8850-26cda247ad21.png" width="16" height="16"/> <img src="https://user-images.githubusercontent.com/107845126/227094311-73b721f8-ae53-4e6c-af26-1a52b73000b5.png" width="16" height="16"/> <img src="https://user-images.githubusercontent.com/107845126/227094306-8a484320-ddf1-4293-a8bc-245f8c54beb6.jpg" width="16" height="16"/> Mobile Developer Flutter + Native
 
 🎖 I hold several certifications that demonstrate my proficiency in Unity. Check out my credentials:
 
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 - IAP Flutter Plugin [Repo](https://github.com/trungnt92/flutter_iap)
 
 💬 You can also ask me about:
-- ![vr](https://user-images.githubusercontent.com/107845126/227094335-74324ddf-892e-4f82-bd33-f999e7f764c3.png) VR experience
-- ![ar](https://user-images.githubusercontent.com/107845126/227094328-55f99f88-9dfb-4541-8405-7b0b7de85cf7.png) AR experience
-- ![game_design](https://user-images.githubusercontent.com/107845126/227094338-8bca0c33-3fb6-4d8b-8cfb-ecacdaef744c.png) Game design and level design
+- <img src="https://user-images.githubusercontent.com/107845126/227094335-74324ddf-892e-4f82-bd33-f999e7f764c3.png" width="16" height="16"/> VR experience
+- <img src="https://user-images.githubusercontent.com/107845126/227094328-55f99f88-9dfb-4541-8405-7b0b7de85cf7.png" width="16" height="16"/> AR experience
+- <img src="https://user-images.githubusercontent.com/107845126/227094338-8bca0c33-3fb6-4d8b-8cfb-ecacdaef744c.png" width="16" height="16"/> Game design and level design
 
 📫 Does this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/trungnt](myup.work/trungnt)
 
